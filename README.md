@@ -1,6 +1,6 @@
 # How to Upload Files and Folders to a GitHub Repository
 
-# 1. Navigate to the Directory or Folder You Want to Upload
+1. Navigate to the Directory or Folder You Want to Upload
 cd path/to/your/directory
 
 # Initialize Git Repository
