@@ -6,8 +6,8 @@ cd path/to/your/directory
 # Initialize Git Repository
 git init
 
-### Add Files and Folders (it will add all the folders or files which are avaliable inside this working directory. one can also manually add by providing the name of the file or folder as git add file.txt)
-git add .
+### Add Files and Folders (it will add all the folders or files which are avaliable inside this working directory. one can also manually add by providing the name of the file or folder)
+git add . or git add file.txt
 
 ### Check Status
 git status
